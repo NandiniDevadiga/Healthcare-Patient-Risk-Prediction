@@ -14,6 +14,7 @@ Retail-Sales-Analysis-Project/
 ├── powerbi/
 │   └── healthcare_dashboard.pbix 
 └── README.md                           # Project documentation
+```
 
 ## 📝 Problem Statement
 
