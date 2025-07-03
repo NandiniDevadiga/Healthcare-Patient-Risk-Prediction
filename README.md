@@ -4,15 +4,16 @@ This project focuses on predicting healthcare patient risk using machine learnin
 
 ## 📁 Project Structure
 
-Healthcare-Patient-Risk-Prediction/
-├── data/
-│ └── patient_data.csv
+```plaintext
+Retail-Sales-Analysis-Project/
+│
 ├── notebooks/
-│ └── healthcare_patient_risk_prediction.ipynb
+│   └── healthcare_patient_risk_prediction.ipynb     
+├── data/
+│   ├── patient_data.csv         
 ├── powerbi/
-│ └── healthcare_dashboard.pbix
-└── README.md
-
+│   └── healthcare_dashboard.pbix 
+└── README.md                           # Project documentation
 
 ## 📝 Problem Statement
 
